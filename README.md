@@ -1,16 +1,17 @@
-## Hi there 👋
+# Diogo-Junior
 
-<!--
-**diogojrbalduino1-coder/diogojrbalduino1-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá, eu sou Diogo Junior! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 sobre mim
+Estudante do segundo periodo de ciências da computação, busco oportunidade de estágio na área como analista de sistemas
+
+
+## 🛠️ Skills
+python, c, HTML
+
+
+## 🔗 Links
+[![linkedin](https://www.linkedin.com/in/diogo-j%C3%BAnior-a25690350/)](https://www.linkedin.com/)
+[![Email](https://www.diogojr.balduino1@gmail.com)](https://www.Gmail.com/)
